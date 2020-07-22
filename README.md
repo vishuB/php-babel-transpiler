@@ -1,6 +1,6 @@
 # PHP Babel Transpiler
 
-[![Build Status](https://travis-ci.org/talyssonoc/php-babel-transpiler.svg)](https://travis-ci.org/talyssonoc/php-babel-transpiler)
+[![Build Status](https://travis-ci.org/vishu-b/php-babel-transpiler.svg)](https://travis-ci.org/vishu-b/php-babel-transpiler)
 
 Transform JavaScript with [Babel](https://babeljs.io/) from PHP.
 
@@ -15,7 +15,7 @@ You can see how to install it here: [how to install V8Js](https://github.com/tal
 ### Composer
 
 ```sh
-  php composer.phar require talyssonoc/php-babel-transpiler
+  php composer.phar require vishu-b/php-babel-transpiler
 ```
 
 ## Usage
