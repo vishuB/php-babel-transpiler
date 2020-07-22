@@ -1,8 +1,8 @@
 {
-    "name": "talyssonoc/php-babel-transpiler",
+    "name": "vishu-b/php-babel-transpiler",
     "description": "Transform JavaScript with Babel from PHP",
     "require": {
-        "ext-v8js": ">=0.1.3",
+        "ext-v8js": "2.1.1",
         "koala-framework/composer-extra-assets": "~1.1"
     },
     "extra": {
@@ -20,8 +20,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "talyssonoc",
-            "email": "talyssonoc@gmail.com"
+            "name": "Vishal Bhalodiya",
+            "email": "bhalodiyavishal46@gmail.com"
         }
     ],
     "autoload": {
