@@ -2,7 +2,6 @@
     "name": "vishu-b/php-babel-transpiler",
     "description": "Transform JavaScript with Babel from PHP",
     "require": {
-        "ext-v8js": "^2.0.0",
         "koala-framework/composer-extra-assets": "~1.1"
     },
     "extra": {
